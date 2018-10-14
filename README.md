@@ -14,6 +14,7 @@ After that select `all-corpora` and download it
 
 
 ## Last step, Enjoy :)
+<img alt="Example" src="https://i.imgur.com/kwxYtAN.png">
 
 
 
